@@ -1,0 +1,29 @@
+.message_body{
+	border: 1px solid black;
+	margin-bottom: 5px;
+}
+
+.response_content{
+	min-width: 600px; 
+	max-width: 600px;
+	max-height: 500px;
+}
+#subjects{
+	min-width: 700px;
+	max-width: 700px;
+}
+
+#subjects table{
+	border: 1px solid black;
+}
+
+#subjects td{
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px;
+	max-width: 200px;
+	max-height: 50px;
+}
+.message_info tr{
+	cursor: pointer;
+}
